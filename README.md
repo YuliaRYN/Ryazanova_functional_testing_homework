@@ -1,5 +1,6 @@
 # Ryazanova_functional_testing_homework
-### Поиск багов на странице https://aliexpress.ru и их описание в Jira:
+***
+### Поиск багов на странице https://aliexpress.ru и их описание:
 
 ### №1
 
@@ -13,3 +14,8 @@
 ![Bugreport3](https://github.com/YuliaRYN/Ryazanova_functional_testing_homework/assets/143518609/037cdc8e-fb69-437f-8cf9-50c1430f9a3e)
 
 ------------------------------------------------------
+
+
+### Составление тест-кейсов:
+
+![image](https://github.com/YuliaRYN/Ryazanova_functional_testing_homework/assets/143518609/2aefea73-8aa6-43ae-a355-61759453e976)
