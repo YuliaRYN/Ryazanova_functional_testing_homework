@@ -17,3 +17,10 @@
 ### Составление тест-кейсов:
 
 ![image](https://github.com/YuliaRYN/Ryazanova_functional_testing_homework/assets/143518609/2aefea73-8aa6-43ae-a355-61759453e976)
+
+### Работа в Postman ### на основании сайтов (https://petstore.swagger.io,  http://users.bugred.ru):
+### №1
+![image](https://github.com/YuliaRYN/Ryazanova_functional_testing_homework/assets/143518609/efeff18d-dcb5-459e-a2e4-d41713b726d5)
+
+### №2
+![image](https://github.com/YuliaRYN/Ryazanova_functional_testing_homework/assets/143518609/e2865f38-05f0-4620-9615-c1d7fc37886f)
