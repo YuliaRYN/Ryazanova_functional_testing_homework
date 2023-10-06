@@ -1,6 +1,6 @@
 # Ryazanova_functional_testing_homework
 ***
-### Поиск багов на странице https://aliexpress.ru и их описание:
+### Поиск багов на странице https://aliexpress.ru и составление отчетов о дефектах:
 
 ### №1
 
